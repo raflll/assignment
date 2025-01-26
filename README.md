@@ -1,0 +1,1 @@
+Labtask #11: Your next assignment is available here: https://www.cs.miami.edu/home/wuchtys/CSC322-24F/Assessment/BatchStarter.html. Deadline is Mo, Nov 18th, 6pm. When you have completed a lab task, submit the solution files through your Github account. Here is a primer (https://www.cs.miami.edu/home/wuchtys/CSC322-24F/github.pptx) of how to submit homeworks.
